@@ -1,0 +1,5 @@
+real_estate_file_path: /Users/shubhamchandel/Downloads/pyspark practise/data/realestate.csv
+sample_json_file_path : /Users/shubhamchandel/Downloads/pyspark practise/data/sample_json.json
+movies_gross_file_path : /Users/shubhamchandel/Downloads/pyspark practise/data/movies_gross.csv
+movies_output_path: /Users/shubhamchandel/Downloads/pyspark practise/Resources/movies_gross_transformed.parquet
+movies_profile_output_path: /Users/shubhamchandel/Downloads/pyspark practise/data_profiling/data/movies_data_profiling_report.html
